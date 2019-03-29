@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaEffect</string>
+    <string name="start_music">start</string>
+    <string name="top_music">stop</string>
+    <string name="previous_music">previous</string>
+    <string name="next_music">next</string>
+</resources>

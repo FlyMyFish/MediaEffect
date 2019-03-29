@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/previous"
+        android:icon="@drawable/ic_skip_previous_black_24dp"
+        android:title="@string/previous_music"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/play"
+        android:icon="@drawable/ic_play_circle_outline_black_24dp"
+        android:title="@string/start_music"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/pause"
+        android:icon="@drawable/ic_stop_black_24dp"
+        android:title="@string/top_music"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/ic_skip_next_black_24dp"
+        android:title="@string/next_music"
+        app:showAsAction="always"/>
+</menu>
